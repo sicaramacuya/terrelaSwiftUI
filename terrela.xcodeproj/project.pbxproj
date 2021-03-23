@@ -11,6 +11,23 @@
 		E908C18E260274FB00ADD221 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E908C18D260274FB00ADD221 /* ContentView.swift */; };
 		E908C1902602750000ADD221 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E908C18F2602750000ADD221 /* Assets.xcassets */; };
 		E908C1932602750000ADD221 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E908C1922602750000ADD221 /* Preview Assets.xcassets */; };
+		E93C0A3F2607B34F00901D72 /* MissionsItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C0A3E2607B34F00901D72 /* MissionsItems.swift */; };
+		E93C0A422607B82D00901D72 /* RocketsItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C0A412607B82D00901D72 /* RocketsItems.swift */; };
+		E93C0A4B2608100D00901D72 /* MissionSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C0A4A2608100D00901D72 /* MissionSearchView.swift */; };
+		E93C0A542608118B00901D72 /* MissionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C0A532608118B00901D72 /* MissionCardView.swift */; };
+		E93C0A572608120900901D72 /* RocketCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C0A562608120900901D72 /* RocketCardView.swift */; };
+		E93C0A5B2608122A00901D72 /* RocketSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C0A5A2608122A00901D72 /* RocketSearchView.swift */; };
+		E93C0A602608ED9100901D72 /* AstronomicalObjectsDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C0A5F2608ED9100901D72 /* AstronomicalObjectsDescriptionView.swift */; };
+		E94B14A8260662D600488C0C /* AstronomicalObjectsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94B14A7260662D600488C0C /* AstronomicalObjectsItem.swift */; };
+		E94B14AB26066DDA00488C0C /* AstronomicalObjectCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94B14AA26066DDA00488C0C /* AstronomicalObjectCardView.swift */; };
+		E94B14AE26068C7A00488C0C /* CustomNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94B14AD26068C7A00488C0C /* CustomNavigationView.swift */; };
+		E973265B260A44CA00FE1C07 /* MissionsDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E973265A260A44CA00FE1C07 /* MissionsDescriptionView.swift */; };
+		E973265F260A718500FE1C07 /* RocketDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E973265E260A718500FE1C07 /* RocketDescriptionView.swift */; };
+		E9DFE9C82604EE39005B5737 /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DFE9C72604EE39005B5737 /* CategoryView.swift */; };
+		E9DFE9D02604F8CA005B5737 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DFE9CF2604F8CA005B5737 /* HomeView.swift */; };
+		E9DFE9D42604FACE005B5737 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DFE9D32604FACD005B5737 /* SearchBarView.swift */; };
+		E9DFE9D726050021005B5737 /* AstronomicalObjectSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DFE9D626050021005B5737 /* AstronomicalObjectSearchView.swift */; };
+		E9DFE9DA26055C27005B5737 /* SearchBarButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DFE9D926055C27005B5737 /* SearchBarButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +37,23 @@
 		E908C18F2602750000ADD221 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E908C1922602750000ADD221 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E908C1942602750000ADD221 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E93C0A3E2607B34F00901D72 /* MissionsItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionsItems.swift; sourceTree = "<group>"; };
+		E93C0A412607B82D00901D72 /* RocketsItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketsItems.swift; sourceTree = "<group>"; };
+		E93C0A4A2608100D00901D72 /* MissionSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionSearchView.swift; sourceTree = "<group>"; };
+		E93C0A532608118B00901D72 /* MissionCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionCardView.swift; sourceTree = "<group>"; };
+		E93C0A562608120900901D72 /* RocketCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketCardView.swift; sourceTree = "<group>"; };
+		E93C0A5A2608122A00901D72 /* RocketSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketSearchView.swift; sourceTree = "<group>"; };
+		E93C0A5F2608ED9100901D72 /* AstronomicalObjectsDescriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronomicalObjectsDescriptionView.swift; sourceTree = "<group>"; };
+		E94B14A7260662D600488C0C /* AstronomicalObjectsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronomicalObjectsItem.swift; sourceTree = "<group>"; };
+		E94B14AA26066DDA00488C0C /* AstronomicalObjectCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronomicalObjectCardView.swift; sourceTree = "<group>"; };
+		E94B14AD26068C7A00488C0C /* CustomNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationView.swift; sourceTree = "<group>"; };
+		E973265A260A44CA00FE1C07 /* MissionsDescriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionsDescriptionView.swift; sourceTree = "<group>"; };
+		E973265E260A718500FE1C07 /* RocketDescriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketDescriptionView.swift; sourceTree = "<group>"; };
+		E9DFE9C72604EE39005B5737 /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		E9DFE9CF2604F8CA005B5737 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		E9DFE9D32604FACD005B5737 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		E9DFE9D626050021005B5737 /* AstronomicalObjectSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronomicalObjectSearchView.swift; sourceTree = "<group>"; };
+		E9DFE9D926055C27005B5737 /* SearchBarButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +88,8 @@
 			children = (
 				E908C18B260274FB00ADD221 /* terrelaApp.swift */,
 				E908C18D260274FB00ADD221 /* ContentView.swift */,
+				E9DFE9C42604EBE5005B5737 /* Views */,
+				E94B14A126065EB000488C0C /* Model */,
 				E908C18F2602750000ADD221 /* Assets.xcassets */,
 				E908C1942602750000ADD221 /* Info.plist */,
 				E908C1912602750000ADD221 /* Preview Content */,
@@ -67,6 +103,61 @@
 				E908C1922602750000ADD221 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E93C0A4F2608109C00901D72 /* Astronomical Object */ = {
+			isa = PBXGroup;
+			children = (
+				E9DFE9D626050021005B5737 /* AstronomicalObjectSearchView.swift */,
+				E94B14AA26066DDA00488C0C /* AstronomicalObjectCardView.swift */,
+				E93C0A5F2608ED9100901D72 /* AstronomicalObjectsDescriptionView.swift */,
+			);
+			path = "Astronomical Object";
+			sourceTree = "<group>";
+		};
+		E93C0A50260810A500901D72 /* Missions */ = {
+			isa = PBXGroup;
+			children = (
+				E93C0A4A2608100D00901D72 /* MissionSearchView.swift */,
+				E93C0A532608118B00901D72 /* MissionCardView.swift */,
+				E973265A260A44CA00FE1C07 /* MissionsDescriptionView.swift */,
+			);
+			path = Missions;
+			sourceTree = "<group>";
+		};
+		E93C0A51260810B400901D72 /* Rockets */ = {
+			isa = PBXGroup;
+			children = (
+				E93C0A5A2608122A00901D72 /* RocketSearchView.swift */,
+				E93C0A562608120900901D72 /* RocketCardView.swift */,
+				E973265E260A718500FE1C07 /* RocketDescriptionView.swift */,
+			);
+			path = Rockets;
+			sourceTree = "<group>";
+		};
+		E94B14A126065EB000488C0C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E94B14A7260662D600488C0C /* AstronomicalObjectsItem.swift */,
+				E93C0A3E2607B34F00901D72 /* MissionsItems.swift */,
+				E93C0A412607B82D00901D72 /* RocketsItems.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E9DFE9C42604EBE5005B5737 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E9DFE9CF2604F8CA005B5737 /* HomeView.swift */,
+				E94B14AD26068C7A00488C0C /* CustomNavigationView.swift */,
+				E9DFE9C72604EE39005B5737 /* CategoryView.swift */,
+				E9DFE9D926055C27005B5737 /* SearchBarButtonView.swift */,
+				E9DFE9D32604FACD005B5737 /* SearchBarView.swift */,
+				E93C0A4F2608109C00901D72 /* Astronomical Object */,
+				E93C0A50260810A500901D72 /* Missions */,
+				E93C0A51260810B400901D72 /* Rockets */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +229,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E973265B260A44CA00FE1C07 /* MissionsDescriptionView.swift in Sources */,
+				E94B14A8260662D600488C0C /* AstronomicalObjectsItem.swift in Sources */,
+				E973265F260A718500FE1C07 /* RocketDescriptionView.swift in Sources */,
+				E94B14AB26066DDA00488C0C /* AstronomicalObjectCardView.swift in Sources */,
+				E93C0A422607B82D00901D72 /* RocketsItems.swift in Sources */,
+				E93C0A4B2608100D00901D72 /* MissionSearchView.swift in Sources */,
+				E9DFE9D42604FACE005B5737 /* SearchBarView.swift in Sources */,
+				E93C0A3F2607B34F00901D72 /* MissionsItems.swift in Sources */,
 				E908C18E260274FB00ADD221 /* ContentView.swift in Sources */,
+				E93C0A542608118B00901D72 /* MissionCardView.swift in Sources */,
+				E93C0A572608120900901D72 /* RocketCardView.swift in Sources */,
+				E9DFE9D02604F8CA005B5737 /* HomeView.swift in Sources */,
+				E93C0A5B2608122A00901D72 /* RocketSearchView.swift in Sources */,
+				E9DFE9DA26055C27005B5737 /* SearchBarButtonView.swift in Sources */,
 				E908C18C260274FB00ADD221 /* terrelaApp.swift in Sources */,
+				E94B14AE26068C7A00488C0C /* CustomNavigationView.swift in Sources */,
+				E93C0A602608ED9100901D72 /* AstronomicalObjectsDescriptionView.swift in Sources */,
+				E9DFE9D726050021005B5737 /* AstronomicalObjectSearchView.swift in Sources */,
+				E9DFE9C82604EE39005B5737 /* CategoryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

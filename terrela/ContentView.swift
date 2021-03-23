@@ -8,14 +8,23 @@
 import SwiftUI
 
 struct ContentView: View {
+
+    @State var searchText = ""
+    @State var isSearching = false
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        NavigationView {
+            HomeView(searchText: $searchText, isSearching: $isSearching)
+                .navigationTitle("")
+                .navigationBarHidden(true)
+                .navigationBarTitleDisplayMode(.inline)
+        }.accentColor(.primary)
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            .colorScheme(.dark)
     }
 }
